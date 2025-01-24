@@ -1,2 +1,6 @@
 This file is created in the master branch, on 24/1/25 at 10.35am
+<<<<<<< HEAD
 This line is added in main branch, blah blah blah, on 24/1/25, at 10.53am
+=======
+This line is added in pretty branch, pretty blah blah blah on 24/1/25 at 10.47am
+>>>>>>> pretty
